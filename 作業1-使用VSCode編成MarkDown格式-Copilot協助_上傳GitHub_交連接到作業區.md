@@ -12,7 +12,7 @@
 
 - 主動學習
 - 善用資源
-- 培養自律
+- 培養自律       BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
 
 ## 🗂️ 3. 課程目錄_資訊安全
 
@@ -22,7 +22,7 @@
 ## 💬 4. 上課前 聊-資訊安全 Overview & Concept
 
 - 資訊安全基本概念
-- 生活中的資訊安全
+- 生活中的資訊安全    CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
 
 ## 🏷️ 4.5. 資訊常用語大補帖
 可取代期末考的報告主題  
