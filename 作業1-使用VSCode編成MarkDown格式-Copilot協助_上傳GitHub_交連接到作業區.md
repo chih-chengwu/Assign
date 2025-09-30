@@ -6,13 +6,13 @@
 
 - 上課出席與參與
 - 作業繳交方式
-- 評分標準說明    AAAAAAAAAAAAAAAAAAAAAAAAA
+- 評分標準說明    
 
 ## 🎓 2. 如何成為一位稱職的大學生
 
 - 主動學習
 - 善用資源
-- 培養自律       BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+- 培養自律      
 
 ## 🗂️ 3. 課程目錄_資訊安全
 
@@ -22,11 +22,11 @@
 ## 💬 4. 上課前 聊-資訊安全 Overview & Concept
 
 - 資訊安全基本概念
-- 生活中的資訊安全    CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+- 生活中的資訊安全    
 
-## 🏷️ 4.5. 資訊常用語大補帖
-可取代期末考的報告主題  
-[🔗 Link 1-5](1-5.常見資訊用語_及_同學可以報告_取代期中期未考的題目.txt)
+## 🏷️ 4.5. 資訊常用語大補帖     
+  
+
 
 ## 💼 4.6. 資訊安全相關工作職位
 
